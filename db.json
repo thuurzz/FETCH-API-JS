@@ -1,0 +1,36 @@
+{
+    "clientes": [{
+            "id": 1,
+            "FirstName": "Arthur",
+            "LastName": "Silva",
+            "EmailAddress": "arthur@gmail.com",
+            "CPF": "123.456.789-01"
+        },
+        {
+            "id": 2,
+            "FirstName": "Lucas",
+            "LastName": "Silva",
+            "EmailAddress": "lucas@gmail.com",
+            "CPF": "123.456.789-02"
+        }, {
+            "id": 3,
+            "FirstName": "Kaike",
+            "LastName": "Silva",
+            "EmailAddress": "kaike@gmail.com",
+            "CPF": "123.456.789-03"
+        }, {
+            "id": 4,
+            "FirstName": "Matheus",
+            "LastName": "Silva",
+            "EmailAddress": "matheus@gmail.com",
+            "CPF": "123.456.789-04"
+        },
+        {
+            "id": 5,
+            "FirstName": "Rafael",
+            "LastName": "Silva",
+            "EmailAddress": "rafel@gmail.com",
+            "CPF": "123.456.789-05"
+        }
+    ]
+}
